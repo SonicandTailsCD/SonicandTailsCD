@@ -6,6 +6,7 @@ I'm also lonely, email me at sonicandtailscd@duck.com and I'll try to create cod
 
 Please enjoy your day!
 
+*If you die, just respawn :)*
 <!---
 SonicandTailsCD/SonicandTailsCD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
